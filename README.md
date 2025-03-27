@@ -16,4 +16,4 @@ This game concentrates on the "two-finger" method, enabling swift mental multipl
 
 
 ### Attribution:
-The image in this readme can be found [here](https://github.com/egonelbre/gophers/blob/master/vector/science/power-to-the-masses.svg).
+* The logo was designed by [Egon Elbre](https://github.com/egonelbre/gophers/blob/master/vector/science/power-to-the-masses.svg).
